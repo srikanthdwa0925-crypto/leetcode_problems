@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
