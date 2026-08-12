@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
