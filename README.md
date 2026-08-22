@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
