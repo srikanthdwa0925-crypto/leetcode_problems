@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -129,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
