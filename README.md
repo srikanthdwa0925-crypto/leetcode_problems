@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
