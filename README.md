@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0242-valid-anagram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0242-valid-anagram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
