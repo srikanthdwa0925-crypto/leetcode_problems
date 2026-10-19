@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0204-count-primes) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
