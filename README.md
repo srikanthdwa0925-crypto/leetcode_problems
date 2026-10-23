@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
