@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
@@ -257,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
