@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
