@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
+| [1668-maximum-repeating-substring](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1668-maximum-repeating-substring) |
 ## Game Theory
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1668-maximum-repeating-substring](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
