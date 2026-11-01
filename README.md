@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0152-maximum-product-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0410-split-array-largest-sum) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
