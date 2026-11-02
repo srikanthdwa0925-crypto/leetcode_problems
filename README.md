@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0268-missing-number) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
