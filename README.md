@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
 | [1668-maximum-repeating-substring](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1668-maximum-repeating-substring) |
 ## Game Theory
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 ## Manacher
