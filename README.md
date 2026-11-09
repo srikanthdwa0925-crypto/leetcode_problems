@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
