@@ -143,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0112-path-sum) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0112-path-sum) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
