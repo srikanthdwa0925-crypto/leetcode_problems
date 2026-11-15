@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0455-assign-cookies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/3731-find-missing-elements) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
