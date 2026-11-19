@@ -1,0 +1,29 @@
+
+import java.util.HashMap;
+
+class Solution {
+    public boolean canConstruct(String ransomNote, String magazine) {
+
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        // Store character frequencies
+        for (int i = 0; i < magazine.length(); i++) {
+            char ch = magazine.charAt(i);
+
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        }
+
+        // Check ransomNote characters
+        for (int j = 0; j < ransomNote.length(); j++) {
+            char ch = ransomNote.charAt(j);
+
+            if (!map.containsKey(ch) || map.get(ch) == 0) {
+                return false;
+            }
+
+            map.put(ch, map.get(ch) - 1);
+        }
+
+        return true;
+    }
+}
