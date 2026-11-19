@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/srikanthdwa0925-crypto/leetcode_problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Quicksort
 |  |
